@@ -1,1 +1,1 @@
-# tech_notes
+# personal tech notes
