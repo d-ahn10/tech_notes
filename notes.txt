@@ -1,0 +1,3 @@
+Imperative vs Declarative Programming
+"Personally, I explain the difference between imperative and declarative by comparing it to the process of eating. When you want to eat, you have two possibilities. The first is to cook and follow a step-by-step recipe with its precise measurements (imperative). The second is to eat in a restaurant and thus order the desired meal (declarative). I also explain that even if we eat in a restaurant, someone must prepare our dish, and therefore under each declarative order, there is an imperative process."
+source: https://www.youtube.com/watch?v=E7Fbf7R3x6I
