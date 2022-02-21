@@ -1,3 +1,9 @@
 Imperative vs Declarative Programming
 "Personally, I explain the difference between imperative and declarative by comparing it to the process of eating. When you want to eat, you have two possibilities. The first is to cook and follow a step-by-step recipe with its precise measurements (imperative). The second is to eat in a restaurant and thus order the desired meal (declarative). I also explain that even if we eat in a restaurant, someone must prepare our dish, and therefore under each declarative order, there is an imperative process."
 source: https://www.youtube.com/watch?v=E7Fbf7R3x6I
+
+Recursion Tips:
+1. Figure out the bare minimum pieces of information to represent your problem.
+2. Give reasonable defaults to the bare minimum pieces of info.
+3. Check the base case. Is there any work left to do? If not, return.
+4. Do some work. Call your function again, making sure the arguments have changed in some fashion.
